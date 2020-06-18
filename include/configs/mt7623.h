@@ -26,7 +26,7 @@
 #define CONFIG_SYS_MALLOC_LEN		SZ_4M
 
 /* Environment */
-#define CONFIG_ENV_SIZE			SZ_4K
+#define CONFIG_ENV_SIZE			SZ_16K
 /* Allow to overwrite serial and ethaddr */
 #define CONFIG_ENV_OVERWRITE
 
